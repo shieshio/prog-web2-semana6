@@ -45,6 +45,7 @@ Este proyecto es un sistema de gestión de tienda en línea basado en PHP y MySQ
 ---
 
 ## 📁 Estructura de Carpeta del trabajo para la semana 6:
+semana_6
 ├── config
 │   ├── catalogo.php
 │   ├── conexion.php
@@ -74,5 +75,4 @@ Este proyecto es un sistema de gestión de tienda en línea basado en PHP y MySQ
 ├── README.md
 ├── scripts.js
 └── styles.css
-
 ---
